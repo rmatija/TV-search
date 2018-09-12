@@ -29,8 +29,6 @@ body{
 }
 
 
-
-
 /**************MAIN BODY****************/
 
 .cont-body{
@@ -52,8 +50,7 @@ body{
 }
 
 
-/*************CARDS***********************/
-
+/*************CARDS*******************/
 
 .scroll {
     max-height: 300px;
@@ -69,6 +66,7 @@ body{
 div.one-show{
     border-bottom: solid 2px blue;
 }
+
 
 /******************FOOTER*********************/
 
