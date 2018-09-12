@@ -1,0 +1,86 @@
+body{
+    font-family: Titillium Web;
+    padding-top: 80px;
+}
+
+/*****************NAVBAR****************/
+
+.navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid gray;
+    background-color: #f5f5f5;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: 'Acme', sans-serif;
+}
+
+.logo-img{
+    width: 150px;
+    height: 65px;
+}
+
+.navbar-logo{
+    margin-left: 30px;
+}
+
+
+
+
+/**************MAIN BODY****************/
+
+.cont-body{
+    background-color: rgb(212, 235, 245);
+}
+
+
+.btn{
+    margin-right: 20px;
+}
+
+.welcome{
+    margin: 13px 0 50px 0;
+    padding-top: 50px;
+    font-family: 'Bree Serif', serif;
+    color: #615b5b;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+
+/*************CARDS***********************/
+
+
+.scroll {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+#input{
+    margin: 10px 0;
+    padding: 10px;
+    width: 400px;
+}
+
+div.one-show{
+    border-bottom: solid 2px blue;
+}
+
+/******************FOOTER*********************/
+
+.page-footer{
+    background: #ebf3f3;
+    color: rgb(131, 117, 117);
+    position: fixed;
+    Width: 100%;
+    bottom: 0;
+    text-align: center;
+    padding:10px 0;
+}
+
+
+
